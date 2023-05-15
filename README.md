@@ -3,16 +3,16 @@
 + Hoạt động khởi động
 	- Mục đích: là hoạt động **gợi động cơ** gây hứng thú cho học sinh, tạo tâm thế học tập và nhu cầu nhận thức
 	- Bản chất: 
-		**Tạo tình huống có vấn đề**: 	
+		- **Tạo tình huống có vấn đề**: 	
 			- Có thể giải quyết được một phần hoặc không
 			- Có nhu cầu giải quyết
 			- Có khả năng giải quyết
 	- Cách để thỏa mãn tình huống có vấn đề:
-		ĐK 1: Có các phương pháp gợi động cơ
+		- ĐK 1: Có các phương pháp gợi động cơ
 			- Khắc phục những hạn chế tiến tới sự hợp lí hóa
 			- Gắp liền với lợi ích trực tiếp, gián tiếp của học sinh
 			- Đưa ra lịch sử của vấn đề, tấm gương của các nhà khoa học
-		ĐK 2: Đảm bảo lí thuyết vùng phát triển gần nhất của vugotxki		
+		- ĐK 2: Đảm bảo lí thuyết vùng phát triển gần nhất của vugotxki		
 + Hoạt động hình thành kiến thức
 	- Mục đích:
 		là hoạt động giáo viên tổ chức cho học sinh **học bằng hoạt động và học thông qua hoạt động**
