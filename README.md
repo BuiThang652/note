@@ -32,9 +32,9 @@
 		- Tránh được sai lầm mắc phải
 		- Giải quyết được vấn đề tương tự như được học ở hoạt động hình thành kiến thức
 	- Cách sử dụng những **phương pháp, kĩ thuật rèn luyện** củng cố kiến thức:
-		- Ngôn ngữ
-		- Nhận dạng thể hiện
-		- Hệ thống kiến thức
+		- Ngôn ngữ: HS diễn đạt hoặc giải thích lại rõ ràng một nội dung kiến thức (khái niệm, nguyên tắc, cách thực hiện)
+		- Nhận dạng thể hiện: khái niệm, câu lệnh, thuật toán, qui trình, phương pháp.
+		- Hệ thống kiến thức: HS kết nối giữa nội dung KT, KN vừa học với KT, KN và kinh nghiệm đã biết
 + Hoạt động vận dung
 	- Mục đích: là hoạt động trong đó GV tổ chức cho HS hoạt động nhằm **áp dụng hoặc vận dụng** kiến thức kĩ năng
 	- Bản chất: Sử dụng các phương pháp, kĩ thuật rèn luyện khả năng vận dụng. Thực hiện triết lí "Học đi đôi với hành".Qua đó:
